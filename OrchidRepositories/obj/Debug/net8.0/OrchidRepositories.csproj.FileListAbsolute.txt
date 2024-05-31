@@ -1,0 +1,14 @@
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidRepositories\bin\Debug\net8.0\OrchidRepositories.deps.json
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidRepositories\bin\Debug\net8.0\OrchidRepositories.runtimeconfig.json
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidRepositories\bin\Debug\net8.0\OrchidRepositories.dll
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidRepositories\bin\Debug\net8.0\OrchidRepositories.pdb
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidRepositories\obj\Debug\net8.0\OrchidRepositories.csproj.AssemblyReference.cache
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidRepositories\obj\Debug\net8.0\OrchidRepositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidRepositories\obj\Debug\net8.0\OrchidRepositories.AssemblyInfoInputs.cache
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidRepositories\obj\Debug\net8.0\OrchidRepositories.AssemblyInfo.cs
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidRepositories\obj\Debug\net8.0\OrchidRepositories.csproj.CoreCompileInputs.cache
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidRepositories\obj\Debug\net8.0\OrchidRepositories.dll
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidRepositories\obj\Debug\net8.0\refint\OrchidRepositories.dll
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidRepositories\obj\Debug\net8.0\OrchidRepositories.pdb
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidRepositories\obj\Debug\net8.0\OrchidRepositories.genruntimeconfig.cache
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidRepositories\obj\Debug\net8.0\ref\OrchidRepositories.dll

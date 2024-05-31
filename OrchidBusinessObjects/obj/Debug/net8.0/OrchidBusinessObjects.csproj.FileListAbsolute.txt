@@ -1,0 +1,14 @@
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidBusinessObjects\bin\Debug\net8.0\OrchidBusinessObjects.deps.json
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidBusinessObjects\bin\Debug\net8.0\OrchidBusinessObjects.runtimeconfig.json
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidBusinessObjects\bin\Debug\net8.0\OrchidBusinessObjects.dll
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidBusinessObjects\bin\Debug\net8.0\OrchidBusinessObjects.pdb
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.csproj.AssemblyReference.cache
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.AssemblyInfoInputs.cache
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.AssemblyInfo.cs
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.csproj.CoreCompileInputs.cache
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.dll
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidBusinessObjects\obj\Debug\net8.0\refint\OrchidBusinessObjects.dll
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.pdb
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.genruntimeconfig.cache
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\OrchidBusinessObjects\obj\Debug\net8.0\ref\OrchidBusinessObjects.dll
