@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\controllers\\courtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\swp391api\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\swp391api\\models\\badmintoncourtdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\models\\badmintoncourtdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\swp391api\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\swp391api\\migrations\\20240530083114_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\migrations\\20240530083114_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\swp391api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\swp391api\\migrations\\badmintoncourtdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,18 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\swp391api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\swp391api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\swp391api\\migrations\\20240530083114_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\migrations\\20240530083114_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\swp391api\\models\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\models\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\swp391api\\swp391api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -50,11 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\SWP391API\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "SWP391API\\Models\\Role.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\SWP391API\\Models\\Role.cs",
+              "RelativeToolTip": "SWP391API\\Models\\Role.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T23:16:33.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BadmintonCourtDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\SWP391API\\Migrations\\BadmintonCourtDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "SWP391API\\Migrations\\BadmintonCourtDbContextModelSnapshot.cs",
@@ -62,7 +71,8 @@
               "RelativeToolTip": "SWP391API\\Migrations\\BadmintonCourtDbContextModelSnapshot.cs",
               "ViewState": "AQIAAEwAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T00:56:19.138Z"
+              "WhenOpened": "2024-05-31T00:56:19.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,14 +82,14 @@
               "RelativeDocumentMoniker": "SWP391API\\Controllers\\CourtController.cs",
               "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\SWP391API\\Controllers\\CourtController.cs",
               "RelativeToolTip": "SWP391API\\Controllers\\CourtController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAlwDUAAAAAAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwEkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T13:17:21.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "20240530083114_Initial.cs",
               "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\SWP391API\\Migrations\\20240530083114_Initial.cs",
               "RelativeDocumentMoniker": "SWP391API\\Migrations\\20240530083114_Initial.cs",
@@ -87,11 +97,12 @@
               "RelativeToolTip": "SWP391API\\Migrations\\20240530083114_Initial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T08:31:14.552Z"
+              "WhenOpened": "2024-05-30T08:31:14.552Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\SWP391API\\Program.cs",
               "RelativeDocumentMoniker": "SWP391API\\Program.cs",
@@ -99,59 +110,38 @@
               "RelativeToolTip": "SWP391API\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T08:24:44.739Z"
+              "WhenOpened": "2024-05-30T08:24:44.739Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Court.cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\SWP391API\\Models\\Court.cs",
-              "RelativeDocumentMoniker": "SWP391API\\Models\\Court.cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\SWP391API\\Models\\Court.cs",
-              "RelativeToolTip": "SWP391API\\Models\\Court.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T08:24:06.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BadmintonCourtDbContext.cs",
               "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\SWP391API\\Models\\BadmintonCourtDbContext.cs",
               "RelativeDocumentMoniker": "SWP391API\\Models\\BadmintonCourtDbContext.cs",
               "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\SWP391API\\Models\\BadmintonCourtDbContext.cs",
               "RelativeToolTip": "SWP391API\\Models\\BadmintonCourtDbContext.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAawAcAAAABAAAA",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAuwA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T08:20:23.142Z"
+              "WhenOpened": "2024-05-30T08:20:23.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\SWP391API\\appsettings.json",
               "RelativeDocumentMoniker": "SWP391API\\appsettings.json",
               "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\SWP391API\\appsettings.json",
               "RelativeToolTip": "SWP391API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-30T07:30:36.747Z"
+              "WhenOpened": "2024-05-30T07:30:36.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\SWP391API\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "SWP391API\\Models\\Account.cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\SWP391API\\Models\\Account.cs",
-              "RelativeToolTip": "SWP391API\\Models\\Account.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T07:15:51.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "SWP391API.csproj",
               "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\SWP391API\\SWP391API.csproj",
               "RelativeDocumentMoniker": "SWP391API\\SWP391API.csproj",
@@ -159,11 +149,12 @@
               "RelativeToolTip": "SWP391API\\SWP391API.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-30T06:43:32.414Z"
+              "WhenOpened": "2024-05-30T06:43:32.414Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\SWP391API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "SWP391API\\Controllers\\WeatherForecastController.cs",
@@ -171,7 +162,8 @@
               "RelativeToolTip": "SWP391API\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T06:43:07.013Z"
+              "WhenOpened": "2024-05-30T06:43:07.013Z",
+              "EditorCaption": ""
             }
           ]
         }
