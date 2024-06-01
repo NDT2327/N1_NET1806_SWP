@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Controllers\\CourtController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\CourtController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Yard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Yard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\TimeSlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\TimeSlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\BadmintonCourtDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\BadmintonCourtDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\SWP391API.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SWP391API.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAkwAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-01T02:14:52.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:10:03.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:05:49.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Yard.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Yard.cs",
+              "RelativeDocumentMoniker": "Models\\Yard.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Yard.cs",
+              "RelativeToolTip": "Models\\Yard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:05:46.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:05:43.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimeSlot.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\TimeSlot.cs",
+              "RelativeDocumentMoniker": "Models\\TimeSlot.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\TimeSlot.cs",
+              "RelativeToolTip": "Models\\TimeSlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:05:42.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourtController.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Controllers\\CourtController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourtController.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Controllers\\CourtController.cs",
+              "RelativeToolTip": "Controllers\\CourtController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAIwDEAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T01:56:19.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Court.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Court.cs",
+              "RelativeDocumentMoniker": "Models\\Court.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Court.cs",
+              "RelativeToolTip": "Models\\Court.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T01:55:20.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BadmintonCourtDbContext.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\BadmintonCourtDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\BadmintonCourtDbContext.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\BadmintonCourtDbContext.cs",
+              "RelativeToolTip": "Models\\BadmintonCourtDbContext.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T01:52:38.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SWP391API.csproj.user",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\SWP391API.csproj.user",
+              "RelativeDocumentMoniker": "SWP391API.csproj.user",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\SWP391API.csproj.user",
+              "RelativeToolTip": "SWP391API.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-06-01T01:52:26.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

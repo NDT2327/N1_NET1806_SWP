@@ -1,0 +1,13 @@
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\Source Code\SWP391API.Domain\obj\Debug\net8.0\SWP391API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\Source Code\SWP391API.Domain\obj\Debug\net8.0\SWP391API.Domain.AssemblyInfoInputs.cache
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\Source Code\SWP391API.Domain\obj\Debug\net8.0\SWP391API.Domain.AssemblyInfo.cs
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\Source Code\SWP391API.Domain\obj\Debug\net8.0\SWP391API.Domain.csproj.CoreCompileInputs.cache
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\Source Code\SWP391API.Domain\obj\Debug\net8.0\SWP391API.Domain.sourcelink.json
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\Source Code\SWP391API.Domain\obj\Debug\net8.0\SWP391API.Domain.csproj.AssemblyReference.cache
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\Source Code\SWP391API.Domain\bin\Debug\net8.0\SWP391API.Domain.deps.json
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\Source Code\SWP391API.Domain\bin\Debug\net8.0\SWP391API.Domain.dll
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\Source Code\SWP391API.Domain\bin\Debug\net8.0\SWP391API.Domain.pdb
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\Source Code\SWP391API.Domain\obj\Debug\net8.0\SWP391API.Domain.dll
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\Source Code\SWP391API.Domain\obj\Debug\net8.0\refint\SWP391API.Domain.dll
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\Source Code\SWP391API.Domain\obj\Debug\net8.0\SWP391API.Domain.pdb
+D:\FPT\SUM2024\C_sharp\day6\SWP391Projects\Source Code\SWP391API.Domain\obj\Debug\net8.0\ref\SWP391API.Domain.dll
