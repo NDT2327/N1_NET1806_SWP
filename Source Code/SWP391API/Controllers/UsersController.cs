@@ -3,7 +3,9 @@ using SWP391API.Attributes;
 using SWP391API.Domain.Contracts;
 using SWP391API.Domain.Models;
 using SWP391API.Models;
-
+/*using SWP391API.Models.Entities;
+using SWP391API.Models.Services;
+*/
 namespace SWP391API.Controllers
 {
     [Route("api/[controller]")] //    /api/Users

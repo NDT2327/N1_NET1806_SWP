@@ -10,6 +10,8 @@ namespace SWP391API.Models;
 
 public class User 
 {
+    [Key]
+    [DatabaseGenerated(DatabaseGeneratedOption.Identity)] // Mark as identity column
     public int Id { get; set; }
     public required string FirstName { get; set; }
     public string LastName { get; set; }

@@ -64,7 +64,7 @@ namespace SWP391API
             });
             builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSettings"));
             builder.Services.AddScoped<IUserService, UserService>();
-            builder.Services.AddScoped<ICourtSevice, CourtService>();
+            builder.Services.AddScoped<ICourtService, CourtService>();
             builder.Services.AddAuthorization();
 
             var app = builder.Build();
@@ -77,9 +77,8 @@ namespace SWP391API
             }
 
             app.UseMiddleware<JwtMiddleware>();
+            app.UseRouting();
             app.UseAuthorization();
-
-
             app.MapControllers();
 
             app.Run();

@@ -3,96 +3,76 @@
   "WorkspaceRootPath": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|solutionrelative:swp391api.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.domain\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|solutionrelative:swp391api.domain\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.domain\\models\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|solutionrelative:swp391api.domain\\models\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.domain\\models\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|solutionrelative:swp391api.domain\\models\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.infrastructure\\services\\courtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|solutionrelative:swp391api.infrastructure\\services\\courtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.domain\\contracts\\icourtsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|solutionrelative:swp391api.domain\\contracts\\icourtsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api\\controllers\\courtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\controllers\\courtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.infrastructure\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|solutionrelative:swp391api.infrastructure\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.domain\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|solutionrelative:swp391api.domain\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.domain\\models\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|solutionrelative:swp391api.domain\\models\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.infrastructure\\appsettings .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|solutionrelative:swp391api.infrastructure\\appsettings .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3B04008-D52C-496D-AF7A-77071094B528}|tests\\SWP391API.TestUnit\\SWP391API.TestUnit.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\tests\\swp391api.testunit\\swp391api.testunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E3B04008-D52C-496D-AF7A-77071094B528}|tests\\SWP391API.TestUnit\\SWP391API.TestUnit.csproj|solutionrelative:tests\\swp391api.testunit\\swp391api.testunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api\\appsettings .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\appsettings .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.infrastructure\\services\\courtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|solutionrelative:swp391api.infrastructure\\services\\courtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|solutionrelative:swp391api.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.domain\\contracts\\icourtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|solutionrelative:swp391api.domain\\contracts\\icourtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api\\attributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\attributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.domain\\appsettings .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|solutionrelative:swp391api.domain\\appsettings .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.infrastructure\\swp391api.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|solutionrelative:swp391api.infrastructure\\swp391api.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.domain\\models\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|solutionrelative:swp391api.domain\\models\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api\\swp391api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\swp391api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3B04008-D52C-496D-AF7A-77071094B528}|tests\\SWP391API.TestUnit\\SWP391API.TestUnit.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\tests\\swp391api.testunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B04008-D52C-496D-AF7A-77071094B528}|tests\\SWP391API.TestUnit\\SWP391API.TestUnit.csproj|solutionrelative:tests\\swp391api.testunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|solutionrelative:swp391api.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.infrastructure\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|solutionrelative:swp391api.infrastructure\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.infrastructure\\appsettings .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8516F396-9C68-4078-A2DC-E18040E73182}|SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj|solutionrelative:swp391api.infrastructure\\appsettings .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.domain\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|solutionrelative:swp391api.domain\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api\\migrations\\20240601041514_add-course-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\migrations\\20240601041514_add-course-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api\\migrations\\20240601040854_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\migrations\\20240601040854_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66659E9B-6D2E-4FF0-9E15-E3EFB4F1CC74}|SWP391API.Domain\\SWP391API.Domain.csproj|solutionrelative:swp391api.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api\\models\\services\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\models\\services\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api\\attributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\attributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api\\models\\services\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\models\\services\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|d:\\fpt\\sum2024\\c_sharp\\day6\\swp391projects\\source code\\swp391api\\models\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AB6B99-E3EE-427A-9261-DBB4FB0B2BC6}|SWP391API\\SWP391API.csproj|solutionrelative:swp391api\\models\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,254 +82,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CourtService.cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Infrastructure\\Services\\CourtService.cs",
-              "RelativeDocumentMoniker": "SWP391API.Infrastructure\\Services\\CourtService.cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Infrastructure\\Services\\CourtService.cs",
-              "RelativeToolTip": "SWP391API.Infrastructure\\Services\\CourtService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA4AAABlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T04:49:45.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICourtSevice.cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Contracts\\ICourtSevice.cs",
-              "RelativeDocumentMoniker": "SWP391API.Domain\\Contracts\\ICourtSevice.cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Contracts\\ICourtSevice.cs",
-              "RelativeToolTip": "SWP391API.Domain\\Contracts\\ICourtSevice.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA0AAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T04:45:46.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SWP391API.TestUnit",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\tests\\SWP391API.TestUnit\\SWP391API.TestUnit.csproj",
-              "RelativeDocumentMoniker": "tests\\SWP391API.TestUnit\\SWP391API.TestUnit.csproj",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\tests\\SWP391API.TestUnit\\SWP391API.TestUnit.csproj",
-              "RelativeToolTip": "tests\\SWP391API.TestUnit\\SWP391API.TestUnit.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-01T04:33:12.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "SWP391API\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "SWP391API\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T04:17:12.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AuthorizeAttribute.cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Attributes\\AuthorizeAttribute.cs",
-              "RelativeDocumentMoniker": "SWP391API\\Attributes\\AuthorizeAttribute.cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Attributes\\AuthorizeAttribute.cs",
-              "RelativeToolTip": "SWP391API\\Attributes\\AuthorizeAttribute.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T04:10:10.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\appsettings.json",
-              "RelativeDocumentMoniker": "SWP391API\\appsettings.json",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\appsettings.json",
-              "RelativeToolTip": "SWP391API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-01T04:03:07.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppSettings .cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Infrastructure\\AppSettings .cs",
-              "RelativeDocumentMoniker": "SWP391API.Infrastructure\\AppSettings .cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Infrastructure\\AppSettings .cs",
-              "RelativeToolTip": "SWP391API.Infrastructure\\AppSettings .cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T04:01:34.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Infrastructure\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "SWP391API.Infrastructure\\Services\\UserService.cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Infrastructure\\Services\\UserService.cs",
-              "RelativeToolTip": "SWP391API.Infrastructure\\Services\\UserService.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwCEAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T04:00:08.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppSettings .cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\AppSettings .cs",
-              "RelativeDocumentMoniker": "SWP391API.Domain\\AppSettings .cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\AppSettings .cs",
-              "RelativeToolTip": "SWP391API.Domain\\AppSettings .cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T03:57:49.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthenticateRequest.cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Models\\AuthenticateRequest.cs",
-              "RelativeDocumentMoniker": "SWP391API.Domain\\Models\\AuthenticateRequest.cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Models\\AuthenticateRequest.cs",
-              "RelativeToolTip": "SWP391API.Domain\\Models\\AuthenticateRequest.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T03:56:59.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthenticateResponse.cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Models\\AuthenticateResponse.cs",
-              "RelativeDocumentMoniker": "SWP391API.Domain\\Models\\AuthenticateResponse.cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Models\\AuthenticateResponse.cs",
-              "RelativeToolTip": "SWP391API.Domain\\Models\\AuthenticateResponse.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowA0AAAAOAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Program.cs",
+              "RelativeDocumentMoniker": "SWP391API\\Program.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Program.cs",
+              "RelativeToolTip": "SWP391API\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwE8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T03:56:44.437Z",
+              "WhenOpened": "2024-06-01T23:14:35.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Contracts\\IUserService.cs",
-              "RelativeDocumentMoniker": "SWP391API.Domain\\Contracts\\IUserService.cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Contracts\\IUserService.cs",
-              "RelativeToolTip": "SWP391API.Domain\\Contracts\\IUserService.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAWwA8AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T03:51:54.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "AppSettings .cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\AppSettings .cs",
-              "RelativeDocumentMoniker": "SWP391API\\AppSettings .cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\AppSettings .cs",
-              "RelativeToolTip": "SWP391API\\AppSettings .cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Infrastructure\\AppSettings .cs",
+              "RelativeDocumentMoniker": "SWP391API.Infrastructure\\AppSettings .cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Infrastructure\\AppSettings .cs",
+              "RelativeToolTip": "SWP391API.Infrastructure\\AppSettings .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T03:51:01.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T16:30:57.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "JwtMiddleware.cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\JwtMiddleware.cs",
-              "RelativeDocumentMoniker": "SWP391API\\JwtMiddleware.cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\JwtMiddleware.cs",
-              "RelativeToolTip": "SWP391API\\JwtMiddleware.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwDEAAABBAAAA",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Infrastructure\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "SWP391API.Infrastructure\\Services\\UserService.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Infrastructure\\Services\\UserService.cs",
+              "RelativeToolTip": "SWP391API.Infrastructure\\Services\\UserService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T03:50:15.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T16:15:18.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Models\\Booking.cs",
-              "RelativeDocumentMoniker": "SWP391API.Domain\\Models\\Booking.cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Models\\Booking.cs",
-              "RelativeToolTip": "SWP391API.Domain\\Models\\Booking.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "DocumentIndex": 11,
+              "Title": "20240601041514_add-course-db.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Migrations\\20240601041514_add-course-db.cs",
+              "RelativeDocumentMoniker": "SWP391API\\Migrations\\20240601041514_add-course-db.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Migrations\\20240601041514_add-course-db.cs",
+              "RelativeToolTip": "SWP391API\\Migrations\\20240601041514_add-course-db.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T03:20:10.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T15:17:48.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Court.cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Models\\Court.cs",
-              "RelativeDocumentMoniker": "SWP391API.Domain\\Models\\Court.cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Models\\Court.cs",
-              "RelativeToolTip": "SWP391API.Domain\\Models\\Court.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwCIAAAAWAAAA",
+              "DocumentIndex": 12,
+              "Title": "20240601040854_init.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Migrations\\20240601040854_init.cs",
+              "RelativeDocumentMoniker": "SWP391API\\Migrations\\20240601040854_init.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Migrations\\20240601040854_init.cs",
+              "RelativeToolTip": "SWP391API\\Migrations\\20240601040854_init.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T03:18:17.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T15:17:15.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "SWP391API",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\SWP391API.csproj",
-              "RelativeDocumentMoniker": "SWP391API\\SWP391API.csproj",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\SWP391API.csproj",
-              "RelativeToolTip": "SWP391API\\SWP391API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-01T02:50:45.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SWP391API.Infrastructure",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj",
-              "RelativeToolTip": "SWP391API.Infrastructure\\SWP391API.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-01T02:50:32.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Models\\User.cs",
               "RelativeDocumentMoniker": "SWP391API.Domain\\Models\\User.cs",
               "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Models\\User.cs",
               "RelativeToolTip": "SWP391API.Domain\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAEAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:48:44.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:18:12.886Z"
             },
             {
               "$type": "Document",
@@ -359,49 +165,144 @@
               "RelativeDocumentMoniker": "SWP391API.Infrastructure\\ApplicationDbContext .cs",
               "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Infrastructure\\ApplicationDbContext .cs",
               "RelativeToolTip": "SWP391API.Infrastructure\\ApplicationDbContext .cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAIAwwBIAAAAqAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBYAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:47:32.138Z",
+              "WhenOpened": "2024-06-01T14:10:03.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthorizeAttribute.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Attributes\\AuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "SWP391API\\Attributes\\AuthorizeAttribute.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Attributes\\AuthorizeAttribute.cs",
+              "RelativeToolTip": "SWP391API\\Attributes\\AuthorizeAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:50:32.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Court.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Models\\Court.cs",
+              "RelativeDocumentMoniker": "SWP391API.Domain\\Models\\Court.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Models\\Court.cs",
+              "RelativeToolTip": "SWP391API.Domain\\Models\\Court.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:48:57.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourtService.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Infrastructure\\Services\\CourtService.cs",
+              "RelativeDocumentMoniker": "SWP391API.Infrastructure\\Services\\CourtService.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Infrastructure\\Services\\CourtService.cs",
+              "RelativeToolTip": "SWP391API.Infrastructure\\Services\\CourtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:24:53.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\tests\\SWP391API.TestUnit\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "tests\\SWP391API.TestUnit\\UnitTest1.cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\tests\\SWP391API.TestUnit\\UnitTest1.cs",
-              "RelativeToolTip": "tests\\SWP391API.TestUnit\\UnitTest1.cs",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Contracts\\IUserService.cs",
+              "RelativeDocumentMoniker": "SWP391API.Domain\\Contracts\\IUserService.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Contracts\\IUserService.cs",
+              "RelativeToolTip": "SWP391API.Domain\\Contracts\\IUserService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:04:46.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICourtService.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Contracts\\ICourtService.cs",
+              "RelativeDocumentMoniker": "SWP391API.Domain\\Contracts\\ICourtService.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API.Domain\\Contracts\\ICourtService.cs",
+              "RelativeToolTip": "SWP391API.Domain\\Contracts\\ICourtService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:07:46.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthenticateResponse.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Services\\AuthenticateResponse.cs",
+              "RelativeDocumentMoniker": "SWP391API\\Models\\Services\\AuthenticateResponse.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Services\\AuthenticateResponse.cs",
+              "RelativeToolTip": "SWP391API\\Models\\Services\\AuthenticateResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:43:37.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T13:04:05.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Program.cs",
-              "RelativeDocumentMoniker": "SWP391API\\Program.cs",
-              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Program.cs",
-              "RelativeToolTip": "SWP391API\\Program.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAuwEIAAABBAAAA",
+              "DocumentIndex": 17,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "SWP391API\\Models\\Entities\\Booking.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Entities\\Booking.cs",
+              "RelativeToolTip": "SWP391API\\Models\\Entities\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:34:23.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T13:00:27.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
+              "Title": "AuthenticateRequest.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Services\\AuthenticateRequest.cs",
+              "RelativeDocumentMoniker": "SWP391API\\Models\\Services\\AuthenticateRequest.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Models\\Services\\AuthenticateRequest.cs",
+              "RelativeToolTip": "SWP391API\\Models\\Services\\AuthenticateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:57:09.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CourtController.cs",
               "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Controllers\\CourtController.cs",
               "RelativeDocumentMoniker": "SWP391API\\Controllers\\CourtController.cs",
               "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Controllers\\CourtController.cs",
               "RelativeToolTip": "SWP391API\\Controllers\\CourtController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAAnAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwC4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:21:33.836Z",
+              "WhenOpened": "2024-06-01T12:56:28.177Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "SWP391API\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "SWP391API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:56:18.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SWP391API.csproj",
+              "DocumentMoniker": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\SWP391API.csproj",
+              "RelativeDocumentMoniker": "SWP391API\\SWP391API.csproj",
+              "ToolTip": "D:\\FPT\\SUM2024\\C_sharp\\day6\\SWP391Projects\\Source Code\\SWP391API\\SWP391API.csproj",
+              "RelativeToolTip": "SWP391API\\SWP391API.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T11:54:55.223Z"
             }
           ]
         }

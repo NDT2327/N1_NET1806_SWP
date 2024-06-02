@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SWP391API.TestUnit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c13019904e0e67228b2e906929af38a103c04f42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ceab97ef3b29da77a26ca1344eaceb386a193f7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SWP391API.TestUnit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SWP391API.TestUnit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

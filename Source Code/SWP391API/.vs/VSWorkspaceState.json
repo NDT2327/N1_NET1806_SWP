@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Attributes",
     "\\Controllers",
     "\\Migrations",
-    "\\Models",
+    "\\obj",
     "\\Properties"
   ],
+  "SelectedNode": "\\Migrations\\20240601040854_init.Designer.cs",
   "PreviewInSolutionExplorer": false
 }

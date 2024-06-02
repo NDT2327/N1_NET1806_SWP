@@ -1,10 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using SWP391API.Attributes;
 using SWP391API.Domain.Contracts;
-using SWP391API.Infrastructure;
 using SWP391API.Models;
 using System.Collections.Generic;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace SWP391API.Controllers
@@ -13,21 +11,60 @@ namespace SWP391API.Controllers
     [ApiController]
     public class CourtController : ControllerBase
     {
-        private readonly ICourtSevice _courtSevice;
+        private readonly ICourtService _courtService;
 
-        public CourtController(ICourtSevice courtSevice)
+        public CourtController(ICourtService courtService)
         {
-            _courtSevice = courtSevice;
+            _courtService = courtService;
         }
 
-       [HttpGet]
-        [Authorize]
-       public Task<Court> GetAsync(int courtId, CancellationToken cancellation)
+        [HttpGet("{courtId}")]
+        public async Task<ActionResult<Court>> GetCourtById(int courtId)
         {
-            return _courtSevice.GetByIdAsync(courtId, cancellation);
+            var court = await _courtService.GetByIdAsync(courtId);
+            if (court == null)
+            {
+                return NotFound();
+            }
+            return Ok(court);
+        }
+
+        [HttpPost]
+        [ActionName(nameof(GetCourtById))]
+        public async Task<ActionResult<Court>> AddInformation([FromBody]Court court)
+        {
+            if (court == null)
+            {
+                return BadRequest("Court is null.");
+            }
+
+            var createdCourt = await _courtService.AddSync(court);
+            return CreatedAtAction(nameof(GetCourtById), new { id = createdCourt.CourtId }, createdCourt);
+        }
+
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Court>>> GetAllAsync()
+        {
+            var courts = await _courtService.GetAllAsync();
+            return Ok(courts);
+        }
+
+        [HttpPut("{courtId}")]
+        public async Task<IActionResult> UpdateCourt(int courtId, Court court)
+        {
+            if (courtId != court.CourtId)
+            {
+                return BadRequest();
+            }
+            await _courtService.UpdateSync(court);
+            return NoContent();
+        }
+
+        [HttpDelete("{courtId}")]
+        public async Task<IActionResult> RemoveCourt(int courtId, CancellationToken cancellationToken)
+        {
+            await _courtService.DeleteSync(courtId, cancellationToken);
+            return NoContent();
         }
     }
-
-
 }
-

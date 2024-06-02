@@ -20,8 +20,9 @@ namespace SWP391API.Infrastructure
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<User>();
-            modelBuilder.Entity<Court>();
+            modelBuilder.Entity<User>().ToTable("Users");
+            modelBuilder.Entity<Court>().ToTable("Court");
+        }
         }
 
         //public virtual DbSet<Booking> Bookings { get; set; }
@@ -40,4 +41,4 @@ namespace SWP391API.Infrastructure
 
         //public virtual DbSet<Yard> Yards { get; set; }
     }
-}
+

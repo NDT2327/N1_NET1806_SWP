@@ -31,6 +31,7 @@ public partial class Court
     public int Quantity { get; set; }
 
     [Key]
+    [DatabaseGenerated(DatabaseGeneratedOption.Identity)] // Mark as identity column
     [Column("CourtID")]
     public int CourtId { get; set; }
 
